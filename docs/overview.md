@@ -19,9 +19,11 @@ This module provides Pipeline handlers. A handler observes, transforms, rejects,
 - `gnalloy.org/handler-timeout` (`timeout`)
 
 ## Direct Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
-## Direct Dependents in the Current Module Plan
+## Direct Dependents in the Current Repository Set
+
 - `gnalloy.org/codec-websocket`
 
 ## Architecture Position

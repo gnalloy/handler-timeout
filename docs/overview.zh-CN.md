@@ -19,9 +19,11 @@ Gnalloy Channel 的超时与空闲状态 Handler，基于核心 hashed wheel tim
 - `gnalloy.org/handler-timeout`（`timeout`）
 
 ## 直接 Gnalloy 依赖
+
 - `gnalloy.org/gnalloy`
 
-## 当前模块规划中的直接下游
+## 当前仓库集合中的直接下游
+
 - `gnalloy.org/codec-websocket`
 
 ## 架构位置
